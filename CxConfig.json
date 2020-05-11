@@ -1,9 +1,0 @@
-{
-  "sast": {
-    "preset": "OWASP TOP 10 - 2017",
-    "engineConfiguration": "",
-    "incremental": false,
-    "forceScan" : true,
-    "fileExcludes": "",
-    "folderExcludes": ""
-  }
